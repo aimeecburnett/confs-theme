@@ -1,10 +1,8 @@
 # Site settings
-title: My Blog
-email: coolwebconfs@gmail.com
-description: My simple blog.
-baseurl: ""
-url: ""
-twitter_username: 
+title: Travel Blog
+email: funtravel@gmail.com
+description: All my Trips!
+baseurl: "/travel-blog"
 avatar: "" # Set footer avatar
 paginate: 3
 
